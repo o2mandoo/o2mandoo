@@ -1,5 +1,3 @@
-# Taemin-Cho
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=200&section=header&text=Taemin%20Cho&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20Data%20Analyst&descAlignY=55&descAlign=50" />
 </div>
