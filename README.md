@@ -10,18 +10,11 @@
   
   **비전공자에서 AI 개발자로 - 자동차 설계에서 AI 부트캠프까지의 여정**
   
-<div align="center">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/o2mandoo&count_bg=%23667EEA&title_bg=%23555555&icon_color=%23E7E7E7&title=Visitors)](https://hits.seeyoufarm.com)
-
-  
-</div>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=o2mandoo.o2mandoo)</div>
 
 ---
 
 ## 🙋‍♂️ About Me
-
-
 
 ### 👤 핵심 정보
 
@@ -32,7 +25,6 @@
   - RAG (Retrieval-Augmented Generation) 최적화
   - Vector Database 운영
   - 프로덕션 환경 배포 (Docker, AWS)
-- 🎌 **목표**: 일본 IT 기업 데이터 전문가 진출
 
 ---
 
@@ -148,32 +140,23 @@
 
 ## 📂 Next Project Plans
 
-### 🚀 진행 예정 프로젝트
-
-| 프로젝트 | 설명 | 주요 기술 |
-|---------|------|----------|
-| 🖼️ **Advanced Image Search & Generation** | 이미지 검색 및 생성형 AI 결합 | CLIP, Stable Diffusion, OpenAI Vision |
-| 👥 **Customer Segmentation Dashboard** | ML 기반 고객 세분화 및 분석 | Scikit-learn, RFM 분석, Plotly |
-| 🏠 **Room Layout Auto-Plan System** | AI 기반 자동 공간 레이아웃 설계 | OpenAI API, PyTorch, LLaMA |
-| 📚 **Multi-source Document Q&A System** | 다중 소스 통합 검색 및 질의응답 | LangChain, ElasticSearch, Qdrant |
-
 ---
 
 ## 🏆 Certifications & Education
 
-### 📜 자격증 (취득 예정/진행 중)
-- 🎓 **ADSP** (데이터분석 준전문가) - 25.09.05
-- 🎓 **DASP** (데이터아키텍처 준전문가) - 25.10.24
-- 🎓 **빅데이터분석기사** - 필기 합격 / 실기 예정
-- 🎓 **정보처리기사** - 필기 합격 / 실기 예정
-- 🎓 **경영정보시각화** - 필기 합격 / 실기 예정
+### 📜 자격증 (취득 완료/진행 중)
+- 🎓 **ADSP** (데이터분석 준전문가) - ✅ 25.09.05 합격
+- 🎓 **DASP** (데이터아키텍처 준전문가) - ✅ 25.10.24 합격
+- 🎓 **빅데이터분석기사** - ✅ 필기 합격 / 실기 준비 중
+- 🎓 **정보처리기사** - ✅ 필기 합격 / 실기 준비 중
+- 🎓 **경영정보시각화** - ✅ 필기 합격 / 실기 준비 중
 
 ### 🎓 교육 이력
 - ✅ **AI/ML 부트캠프** 수료 (데이터분석 & LLM 활용)
   - 주요 학습: Python, Django, FastAPI, LangChain, Vector DB
   - 프로젝트 기반 학습으로 실무 능력 습득
   
-- ✅ **SK Networks Family AI Camp** 참여
+- ✅ **SK Networks Family AI Camp (25.05.20 - 25.11.21)** 참여 
   - AI 기초 이론 및 실전 프로젝트
 
 - 🎓 **냉동공조공학 전공** (Engineering Background)
@@ -183,15 +166,11 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=o2mandoo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=o2mandoo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=o2mandoo&theme=radical&hide_border=true&background=0D1117&ring=667EEA&fire=764BA2&currStreakLabel=764BA2)
-  
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=o2mandoo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=o2mandoo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=o2mandoo&theme=radical&hide_border=true&background=0D1117&ring=667EEA&fire=764BA2&currStreakLabel=764BA2)
 
 ---
 
@@ -199,8 +178,8 @@
 
 ### 💼 경력 개발 방향
 - **단기**: 국내 AI/데이터 분석 직무 취업
-- **중기**: MLOps
-- **장기**: PM
+- **중기**: MLOps & 데이터 엔지니어
+- **장기**: PM 또는 테크 리더
 
 ### 🎯 관심 분야
 - Large Language Models (LLM) 응용
@@ -215,28 +194,18 @@
 
 ## 📫 Connect With Me
 
-<div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=notion&logoColor=white)](https://lively-lotus-6ca.notion.site/AI-Cho-Taemin-Why-267a65c2efb780738373e1019c1347c6)
-  
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jtm427@naver.com)
-    
-  [![Blog](https://img.shields.io/badge/Blog-00C73C?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/o2mandoo)
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/o2mandoo)
+[![Blog](https://img.shields.io/badge/Blog-00C73C?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/o2mandoo)
 
-  
-  
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=notion&logoColor=white)](https://lively-lotus-6ca.notion.site/AI-Cho-Taemin-Why-267a65c2efb780738373e1019c1347c6)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jtm427@naver.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/o2mandoo)
 
 ---
 
-<div align="center">
-  
-  ### 💡 *"끊임없는 학습과 도전을 통해 AI로 미래를 만드는 개발자가 되겠습니다"*
-  
-  #### *From Car Pipe Design to AI Innovation* 🚀
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=120&section=footer)
-  
-</div>
+### 💡 *"끊임없는 학습과 도전을 통해 AI로 미래를 만드는 개발자가 되겠습니다"*
+
+#### *From Car Pipe Design to AI Innovation* 🚀
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=120&section=footer)
