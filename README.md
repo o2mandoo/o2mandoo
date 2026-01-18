@@ -1,18 +1,19 @@
 <p align="center">
-  <a href="./README.ko.md">한국어</a> ·
-  <a href="./README.md">English</a> ·
+  <a href="./README.md">한국語</a> ·
+  <a href="./README.eng.md">English</a> ·
   <a href="./README.ja.md">日本語</a>
 </p>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=200&section=header&text=Taemin%20Cho&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20Data%20Engineer&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
-  
-### 👋 Welcome to My GitHub
 
-**"Why(본질)에 집중해, 명확한 성능 지표로 AI 파이프라인과 에이전트를 설계합니다."**  
-비즈니스 문제를 데이터 흐름으로 구조화하고, *환각 제어·비용 효율·운영 자동화*로 임팩트를 만듭니다.
+### 👋 GitHubへようこそ
+
+**「Why（本質）に集中し、明確な性能指標に基づいてAIパイプラインとエージェントを設計します。」**  
+ビジネス課題をデータフローとして構造化し、*ハルシネーション制御・コスト効率・運用自動化*でインパクトを生み出します。
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=o2mandoo.o2mandoo)
 
@@ -20,36 +21,36 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ 私について（About Me）
 
-- 🎯 **Focus**: Agentic Workflow, RAG/GraphRAG, Memory Optimization, 데이터 기반 의사결정 자동화
-- 🧠 **Strength**: “기술이 왜 필요한지”를 먼저 정의하고, **지표 기반으로 설계/검증**
-- 🧩 **Collaboration**: PM 관점 + 장교 복무 경험 기반으로 목표/리스크/리소스 균형을 맞추며 실행
-- 🏗️ **Background**: 기계/배관 설계 엔지니어 경험 → AI 엔지니어 전향
+- 🎯 **Focus**: Agentic Workflow、RAG/GraphRAG、Memory Optimization、データ駆動の意思決定自動化
+- 🧠 **Strength**: 「なぜその技術が必要か」を先に定義し、**指標ベースで設計・検証**
+- 🧩 **Collaboration**: PM視点＋将校としての経験を活かし、目標／リスク／リソースのバランスを取りながら推進
+- 🏗️ **Background**: 機械／配管設計エンジニア → AIエンジニアへ転向
 
 **Highlights**
-- GraphRAG + 3-Tier Memory로 **페르소나 붕괴/환각률 감소**, 토큰/비용 최적화
-- SQL Agent 기반 매출 분석 + 마케팅 실행 자동화로 **분석→제안 시간을 분 단위로 단축**
-- “이탈 컬럼이 없는 데이터”에서 **논리적 이탈 정의**를 만들고 예측 성능 개선
+- GraphRAG + 3-Tier Memoryで **ペルソナ崩壊／ハルシネーション率を低減**、トークン／コストを最適化
+- SQL Agentによる売上分析＋マーケ運用の自動化で **分析→提案までの時間を分単位に短縮**
+- 「離脱カラムがないデータ」から **論理的な離脱定義**を設計し、予測性能を改善
+
 ---
 
-## 💼 Featured Projects
+## 💼 注目プロジェクト（Featured Projects）
 
-### 1) 🧑‍🍳 AI 점장 에이전트 (매출 분석 & 마케팅·운영 자동화 플랫폼) — 진행 중
-> POS/매출 + 날씨/경쟁/트렌드를 통합 분석해 하락 원인을 설명하고, 인플루언서 컨택·캠페인 실행까지 자동화
+### 1) 🧑‍🍳 AI店長エージェント（売上分析 & マーケ・運用自動化プラットフォーム）— 進行中
+> POS/売上 + 天気/競合/トレンドを統合分析し、売上低下の原因を説明。インフルエンサーのコンタクト～施策実行まで自動化
 
-- **목표**: 점주의 “감” 의존을 줄이고, **마케팅 ROI + 운영 효율**을 함께 올리는 의사결정 도구
-- **주요 기능(기획/개발 범위)**  
-  - **매출 급락 원인 자동 설명(내/외부 데이터 결합)**  
-  - **라이징 인플루언서 발굴/스코어링 + 컨택 메일 초안 생성**  
-  - 네이버 플레이스 **키워드 순위 추적**, 리뷰/트렌드 분석  
-  - 운영 자동화: **직원 스케줄 추천**, **손익계산서(P&L) 자동화**, **재고·발주 알림**
-- **운영 방식(예시)**: 현황 분석 → 계획 → 실행 → 검토 → 제안 루프(ReAct 기반)로 자동화
+- **目的**: 店長の「勘」依存を減らし、**マーケROI + 運用効率**を同時に高める意思決定ツール
+- **主な機能（企画/開発範囲）**  
+  - **売上急落の原因を自動説明（内外データの統合）**  
+  - **成長中インフルエンサーの発掘/スコアリング + 連絡メール草案の生成**  
+  - Naver Placeの **キーワード順位トラッキング**、レビュー/トレンド分析  
+  - 運用自動化：**スタッフシフト推薦**、**損益計算書（P&L）自動化**、**在庫・発注アラート**
+- **運用フロー（例）**: 現状分析 → 計画 → 実行 → 振り返り → 提案（ReActループで自動化）
 
 **🔗 Links**
 
-
-**🛠 Tech Stack (planned / in progress)**  
+**🛠 Tech Stack（planned / in progress）**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -58,27 +59,27 @@
 
 ---
 
-**📌 주요 기능**
-- 가맹점 정보 및 판매량 통합 관리
-- 마케팅 캠페인 자동 생성 (타겟팅 기반)
-- 대시보드를 통한 실시간 성과 모니터링
-- 자동 리포트 생성 및 배포
+**📌 主な機能**
+- 加盟店情報および売上の統合管理
+- マーケティングキャンペーンの自動生成（ターゲティング基盤）
+- ダッシュボードによるリアルタイム成果モニタリング
+- 自動レポート生成および配信
+
 ---
 
-### 2) 🗡️ 멀티 페르소나 챗봇 (GraphRAG & 3-Tier Memory)
-> 캐릭터 관계/사건을 “기억”하는 멀티턴 챗봇: 환각 제어 + 비용 효율 최적화
+### 2) 🗡️ マルチペルソナチャットボット（GraphRAG & 3-Tier Memory）
+> キャラクターの関係/事件を「記憶」するマルチターンチャットボット：ハルシネーション制御 + コスト効率の最適化
 
-- **핵심 문제**: 턴이 길어질수록 관계 오류/환각 및 비용 급증
-- **해결**  
-  - **GraphRAG**로 관계/사건을 그래프 조회 기반으로 분기 제어  
-  - **3-Tier Memory(Recent/Chunk Summary/User Memory)**로 필요한 기억만 인출  
-  - Router/Generator/Validator 분리로 **LangGraph 오케스트레이션** 구성
-- **성과 예시**  
-  - 토큰 사용량 절감(계층 요약), 장기 대화 품질 유지  
-  - 로컬 sLLM + 상용 API 조합으로 비용/속도 균형
+- **課題**: ターンが長くなるほど関係の誤り/ハルシネーションが増え、コストも増大
+- **解決**  
+  - **GraphRAG**で関係/事件をグラフ検索ベースで分岐制御  
+  - **3-Tier Memory（Recent/Chunk Summary/User Memory）**で必要な記憶のみを抽出  
+  - Router/Generator/Validatorを分離し、**LangGraphでオーケストレーション**
+- **成果例**  
+  - トークン消費を削減（階層要約）、長期対話品質の維持  
+  - ローカルsLLM + 商用APIの併用で速度/コストをバランス
 
 **🔗 Links**
-
 
 **🛠 Tech Stack**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -90,18 +91,17 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
----
-### 3) 🛒 Instacart 고객 이탈 정의 & 예측 (Churn Modeling)
-> “이탈 컬럼이 없는 데이터”에서 고객별 구매 주기 기반으로 이탈을 정의하고 예측 모델링
 
-- **핵심 문제**: 정답 라벨이 없는 데이터 + 고객별 구매 주기 편차
-- **해결**  
-  - 고객별 평균 재구매 주기와 표준편차로 **개인화 이탈 기준** 정의  
-  - XGBoost + SHAP으로 핵심 요인 식별 및 실행 가능한 시나리오 제안
-- **성과 예시**: 단순 기간 기준 대비 예측 성능(F1) 개선
+### 3) 🛒 Instacart 顧客離脱の定義 & 予測（Churn Modeling）
+> 「離脱カラムがないデータ」から、顧客ごとの購入周期を基に離脱を定義し予測モデルを構築
+
+- **課題**: 正解ラベルがないデータ + 顧客ごとの購入周期のばらつき
+- **解決**  
+  - 顧客別の平均再購入周期と標準偏差から **個別最適な離脱基準**を定義  
+  - XGBoost + SHAPで主要因子を可視化し、実行可能なシナリオを提案
+- **成果例**: 単純な期間基準より予測性能（F1）を改善
 
 **🔗 Links**
-
 
 **🛠 Tech Stack**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -111,14 +111,14 @@
 
 ---
 
-### 4) 🤖 멀티에이전트 RAG 검색 시스템
-> 로컬 LLM 기반 다중 에이전트 문서 검색 및 질의응답 시스템
+### 4) 🤖 マルチエージェント RAG 検索システム
+> ローカルLLM基盤のマルチエージェント文書検索・QAシステム
 
-**🎯 프로젝트 개요**
-- Parent-Child 에이전트 구조로 복잡한 쿼리 처리
-- Vector Database 기반 의미론적 문서 검색
-- 컨텍스트 보존 및 에이전트 간 협업
-- 로컬 환경에서 프라이버시 보장하며 실행
+**🎯 プロジェクト概要**
+- Parent-Child エージェント構造で複雑なクエリを処理
+- ベクトルDBによる意味検索（Semantic Search）
+- コンテキスト保持とエージェント協調
+- ローカル実行でプライバシーを確保
 
 **🛠 Tech Stack**  
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
@@ -127,22 +127,22 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=flat-square&logoColor=white)
 
-**📌 주요 기능**
-- 복잡한 쿼리를 여러 에이전트가 협업하여 처리
-- 임베딩 기반 의미론적 검색 (Semantic Search)
-- 다중 문서 소스에서 정보 통합
-- 로컬 LLM(Ollama)으로 프라이버시 보장
+**📌 主な機能**
+- 複雑なクエリを複数エージェントが協調して処理
+- 埋め込みベースの意味検索（Semantic Search）
+- 複数ソース文書の情報統合
+- ローカルLLM（Ollama）でプライバシーを確保
 
 ---
 
-### 5) 📊 자동차 선호도 및 FAQ 제공 데이터 분석 대시보드
-> 비즈니스 인텔리전스를 위한 인터랙티브 시각화 대시보드
+### 5) 📊 自動車の嗜好・FAQ提供 データ分析ダッシュボード
+> ビジネスインテリジェンスのためのインタラクティブ可視化ダッシュボード
 
-**🎯 프로젝트 개요**
-- 실시간 데이터 수집 및 처리
-- 대시보드를 통한 비즈니스 인사이트 시각화
-- 자동 리포트 생성 및 배포
-- 사용자 맞춤형 대시보드 구성
+**🎯 プロジェクト概要**
+- リアルタイムデータ収集・処理
+- ダッシュボードでビジネスインサイトを可視化
+- 自動レポート生成・配信
+- ユーザー別にカスタマイズ可能な構成
 
 **🛠 Tech Stack**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -150,11 +150,11 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**📌 주요 기능**
-- 실시간 데이터 시각화
-- 다양한 차트 및 그래프 제공
-- 필터링 및 검색 기능
-- 자동 리포트 생성 및 다운로드
+**📌 主な機能**
+- リアルタイム可視化
+- 多様なチャート/グラフ
+- フィルタリング/検索
+- レポート生成・ダウンロード
 
 ---
 
@@ -194,45 +194,42 @@
 
 ---
 
-## 📂 Next Project Plans
+## 📂 次のプロジェクト計画（Next Project Plans）
 
 ---
 
-## 🏆 Certifications & Education
+## 🏆 資格 & 学歴（Certifications & Education）
 
-### 📜 자격증 (취득 완료/진행 중)
-- 🎓 **ADSP** (데이터분석 준전문가) - ✅ 25.09.05 합격
-- 🎓 **DASP** (데이터아키텍처 준전문가) - ✅ 25.10.24 합격
+### 📜 資格（取得済み / 進行中）
+- 🎓 **ADSP**（データ分析 準専門家）- ✅ 2025.09.05 合格
+- 🎓 **DASP**（データアーキテクチャ 準専門家）- ✅ 2025.10.24 合格
 
-### 🎓 교육 이력
-- ✅ **AI/ML 부트캠프** 수료 (데이터분석 & LLM 활용)
-  - 주요 학습: Python, Django, FastAPI, LangChain, Vector DB
-  - 프로젝트 기반 학습으로 실무 능력 습득
+### 🎓 教育履歴
+- ✅ **AI/ML ブートキャンプ** 修了（データ分析 & LLM活用）
+  - 主な学習：Python / Django / FastAPI / LangChain / Vector DB
+  - プロジェクトベースで実務力を習得
   
-- ✅ **SK Networks Family AI Camp (25.05.20 - 25.11.21)** 참여 
-  - AI 기초 이론 및 실전 프로젝트
+- ✅ **SK Networks Family AI Camp（2025.05.20 - 2025.11.21）** 参加
+  - AI基礎理論 + 実戦プロジェクト
 
-- 🎓 **냉동공조공학 전공** (Engineering Background)
-  - 자동차 배관 설계 및 시뮬레이션 경험
+- 🎓 **冷凍空調工学 専攻**（Engineering Background）
+  - 自動車配管設計・シミュレーション経験
 
 ---
----
 
-## 🌱 & Interests
+## 🌱 Interests
 
-### 🎯 관심 분야
-- Large Language Models (LLM) 응용
-- Retrieval-Augmented Generation (RAG)
+### 🎯 関心分野
+- Large Language Models（LLM）応用
+- Retrieval-Augmented Generation（RAG）
 - Multi-Agent System Architecture
-- Vector Database 최적화
-- 실시간 데이터 분석 및 시각화
-- Graph RAG 구축 및 성능 개선
-
-
+- Vector Database 最適化
+- リアルタイム分析・可視化
+- GraphRAG 構築および性能改善
 
 ---
 
-### 💡 *"끊임없는 학습과 도전을 통해 AI로 미래를 만드는 개발자가 되겠습니다"*
+### 💡 *「継続的な学習と挑戦を通じて、AIで未来を創る開発者を目指します」*
 
 #### *From Car Pipe Design to AI Innovation* 🚀
 
