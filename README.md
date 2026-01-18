@@ -73,7 +73,7 @@
   - 로컬 sLLM + 상용 API 조합으로 비용/속도 균형
 
 **🔗 Links**
-- (추가 예정) 레포 링크 / 데모 링크
+- Repo: https://github.com/o2mandoo/Graph-RAG-based-gamified-multi-persona-chatbot-SKN-Final-Project-
 
 **🛠 Tech Stack**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -96,7 +96,8 @@
 - **성과 예시**: 단순 기간 기준 대비 예측 성능(F1) 개선
 
 **🔗 Links**
-- (추가 예정) 레포 링크 / 노트북 링크
+- Repo: https://github.com/o2mandoo/Instacart-customer-churn-prediction-and-prevention-strategy-Mini-Project-2-
+
 
 **🛠 Tech Stack**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -128,6 +129,8 @@
 - 다중 문서 소스에서 정보 통합
 - 로컬 LLM(Ollama)으로 프라이버시 보장
 
+**🔗 Links**
+- Repo: https://github.com/o2mandoo/Lecture-based-RAG-learning-assistant-web-app-Mini-Project-4-Django-deployment-
 ---
 
 ### 5) 📊 자동차 선호도 및 FAQ 제공 데이터 분석 대시보드
@@ -150,8 +153,12 @@
 - 다양한 차트 및 그래프 제공
 - 필터링 및 검색 기능
 - 자동 리포트 생성 및 다운로드
-
+**🔗 Links**
+- Repo: https://github.com/o2mandoo/Korean-automobile-preference-data-analysis-and-company-specific-FAQ-system-Mini-Project-1-
 ---
+### 6)  📚 SK Networks Family AI Camp 학습 기록
+**🔗 Links**
+- Repo: https://github.com/o2mandoo/Learning-records-from-SK-Networks-Family-AI-Camp
 
 ## 🛠 Tech Stack
 
