@@ -1,59 +1,112 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=200&section=header&text=Taemin%20Cho&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20Data%20Analyst&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=200&section=header&text=Taemin%20Cho&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20Data%20Engineer&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
   
-  ### 👋 Welcome to My GitHub!
-  
-  **비전공자에서 AI 개발자로 - 자동차 설계에서 AI 부트캠프까지의 여정**
-  
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=o2mandoo.o2mandoo)</div>
+### 👋 Welcome to My GitHub
+
+**"Why(본질)에 집중해, 명확한 성능 지표로 AI 파이프라인과 에이전트를 설계합니다."**  
+비즈니스 문제를 데이터 흐름으로 구조화하고, *환각 제어·비용 효율·운영 자동화*로 임팩트를 만듭니다.
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=o2mandoo.o2mandoo)
+
+</div>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-### 👤 핵심 정보
+- 🎯 **Focus**: Agentic Workflow, RAG/GraphRAG, Memory Optimization, 데이터 기반 의사결정 자동화
+- 🧠 **Strength**: “기술이 왜 필요한지”를 먼저 정의하고, **지표 기반으로 설계/검증**
+- 🧩 **Collaboration**: PM 관점 + 장교 복무 경험 기반으로 목표/리스크/리소스 균형을 맞추며 실행
+- 🏗️ **Background**: 기계/배관 설계 엔지니어 경험 → AI 엔지니어 전향
 
-- 🎯 **현재**: AI/ML 부트캠프 수료, 데이터 분석 및 LLM 활용 프로젝트 진행 중
-- 🏗️ **이전 경력**: 자동차 회사 배관 설계 업무 (냉동공조공학 전공)
-- 📚 **학습 중**: 
-  - 멀티에이전트 시스템 설계 및 구현
-  - RAG (Retrieval-Augmented Generation) 최적화
-  - Vector Database 운영
-  - 프로덕션 환경 배포 (Docker, AWS)
-
+**Highlights**
+- GraphRAG + 3-Tier Memory로 **페르소나 붕괴/환각률 감소**, 토큰/비용 최적화
+- SQL Agent 기반 매출 분석 + 마케팅 실행 자동화로 **분석→제안 시간을 분 단위로 단축**
+- “이탈 컬럼이 없는 데이터”에서 **논리적 이탈 정의**를 만들고 예측 성능 개선
 ---
 
 ## 💼 Featured Projects
 
-### 🏪 프랜차이즈 통합 마케팅 솔루션
-> 프랜차이즈 가맹점의 통합 관리 및 마케팅 자동화 시스템
+### 1) 🧑‍🍳 AI 점장 에이전트 (매출 분석 & 마케팅·운영 자동화 플랫폼) — 진행 중
+> POS/매출 + 날씨/경쟁/트렌드를 통합 분석해 하락 원인을 설명하고, 인플루언서 컨택·캠페인 실행까지 자동화
 
-**🎯 프로젝트 개요**
-- 다중 매장 통합 관리 대시보드
-- 자동화된 마케팅 캠페인 생성 및 배포
-- 실시간 데이터 분석 및 인사이트 제공
-- 매장별 성과 모니터링 및 리포팅
+- **목표**: 점주의 “감” 의존을 줄이고, **마케팅 ROI + 운영 효율**을 함께 올리는 의사결정 도구
+- **주요 기능(기획/개발 범위)**  
+  - **매출 급락 원인 자동 설명(내/외부 데이터 결합)**  
+  - **라이징 인플루언서 발굴/스코어링 + 컨택 메일 초안 생성**  
+  - 네이버 플레이스 **키워드 순위 추적**, 리뷰/트렌드 분석  
+  - 운영 자동화: **직원 스케줄 추천**, **손익계산서(P&L) 자동화**, **재고·발주 알림**
+- **운영 방식(예시)**: 현황 분석 → 계획 → 실행 → 검토 → 제안 루프(ReAct 기반)로 자동화
 
-**🛠 Tech Stack**  
+**🔗 Links**
+
+
+**🛠 Tech Stack (planned / in progress)**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+---
 
 **📌 주요 기능**
 - 가맹점 정보 및 판매량 통합 관리
 - 마케팅 캠페인 자동 생성 (타겟팅 기반)
 - 대시보드를 통한 실시간 성과 모니터링
 - 자동 리포트 생성 및 배포
+---
+
+### 2) 🗡️ 멀티 페르소나 챗봇 (GraphRAG & 3-Tier Memory)
+> 캐릭터 관계/사건을 “기억”하는 멀티턴 챗봇: 환각 제어 + 비용 효율 최적화
+
+- **핵심 문제**: 턴이 길어질수록 관계 오류/환각 및 비용 급증
+- **해결**  
+  - **GraphRAG**로 관계/사건을 그래프 조회 기반으로 분기 제어  
+  - **3-Tier Memory(Recent/Chunk Summary/User Memory)**로 필요한 기억만 인출  
+  - Router/Generator/Validator 분리로 **LangGraph 오케스트레이션** 구성
+- **성과 예시**  
+  - 토큰 사용량 절감(계층 요약), 장기 대화 품질 유지  
+  - 로컬 sLLM + 상용 API 조합으로 비용/속도 균형
+
+**🔗 Links**
+
+
+**🛠 Tech Stack**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=flat-square&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+---
+---
+### 3) 🛒 Instacart 고객 이탈 정의 & 예측 (Churn Modeling)
+> “이탈 컬럼이 없는 데이터”에서 고객별 구매 주기 기반으로 이탈을 정의하고 예측 모델링
+
+- **핵심 문제**: 정답 라벨이 없는 데이터 + 고객별 구매 주기 편차
+- **해결**  
+  - 고객별 평균 재구매 주기와 표준편차로 **개인화 이탈 기준** 정의  
+  - XGBoost + SHAP으로 핵심 요인 식별 및 실행 가능한 시나리오 제안
+- **성과 예시**: 단순 기간 기준 대비 예측 성능(F1) 개선
+
+**🔗 Links**
+
+
+**🛠 Tech Stack**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-000000?style=flat-square&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
-### 🤖 멀티에이전트 RAG 검색 시스템
+### 4) 🤖 멀티에이전트 RAG 검색 시스템
 > 로컬 LLM 기반 다중 에이전트 문서 검색 및 질의응답 시스템
 
 **🎯 프로젝트 개요**
@@ -77,7 +130,7 @@
 
 ---
 
-### 📊 데이터 분석 대시보드
+### 5) 📊 자동차 선호도 및 FAQ 제공 데이터 분석 대시보드
 > 비즈니스 인텔리전스를 위한 인터랙티브 시각화 대시보드
 
 **🎯 프로젝트 개요**
@@ -145,9 +198,6 @@
 ### 📜 자격증 (취득 완료/진행 중)
 - 🎓 **ADSP** (데이터분석 준전문가) - ✅ 25.09.05 합격
 - 🎓 **DASP** (데이터아키텍처 준전문가) - ✅ 25.10.24 합격
-- 🎓 **빅데이터분석기사** - ✅ 필기 합격 / 실기 준비 중
-- 🎓 **정보처리기사** - ✅ 필기 합격 / 실기 준비 중
-- 🎓 **경영정보시각화** - ✅ 필기 합격 / 실기 준비 중
 
 ### 🎓 교육 이력
 - ✅ **AI/ML 부트캠프** 수료 (데이터분석 & LLM 활용)
@@ -161,23 +211,9 @@
   - 자동차 배관 설계 및 시뮬레이션 경험
 
 ---
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=o2mandoo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=o2mandoo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=o2mandoo&theme=radical&hide_border=true&background=0D1117&ring=667EEA&fire=764BA2&currStreakLabel=764BA2)
-
 ---
 
-## 🌱 Career Path & Interests
-
-### 💼 경력 개발 방향
-- **단기**: 국내 AI/데이터 분석 직무 취업
-- **중기**: MLOps & 데이터 엔지니어
-- **장기**: PM 또는 테크 리더
+## 🌱 & Interests
 
 ### 🎯 관심 분야
 - Large Language Models (LLM) 응용
@@ -185,20 +221,9 @@
 - Multi-Agent System Architecture
 - Vector Database 최적화
 - 실시간 데이터 분석 및 시각화
-- 프로덕션 환경 배포 및 운영
+- Graph RAG 구축 및 성능 개선
 
 
----
-
-## 📫 Connect With Me
-
-[![Blog](https://img.shields.io/badge/Blog-00C73C?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/o2mandoo)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=notion&logoColor=white)](https://lively-lotus-6ca.notion.site/AI-Cho-Taemin-Why-267a65c2efb780738373e1019c1347c6)
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jtm427@naver.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/o2mandoo)
 
 ---
 
