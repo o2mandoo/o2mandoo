@@ -49,7 +49,6 @@
 - **운영 방식(예시)**: 현황 분석 → 계획 → 실행 → 검토 → 제안 루프(ReAct 기반)로 자동화
 
 **🔗 Links**
-- (추가 예정) 레포 링크 / 데모 링크
 
 **🛠 Tech Stack (planned / in progress)**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
