@@ -157,6 +157,7 @@
 ---
 ### 6)  📚 SK Networks Family AI Camp 학습 기록
 **🔗 Links**
+- Record : https://www.notion.so/SKN-family-ai-camp-15-21aa65c2efb780378138e8125db1ff17?source=copy_link
 - Repo: https://github.com/o2mandoo/Learning-records-from-SK-Networks-Family-AI-Camp
 
 ## 🛠 Tech Stack
